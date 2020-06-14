@@ -1,5 +1,5 @@
 # iOS-CatchTheKennyGame
-* iOS - CatchTheKennyGame Images
+* iOS - CatchTheKennyGame ScreenShots
 
 <img width="577" alt="Ekran Resmi 2020-04-06 17 42 43" src="https://user-images.githubusercontent.com/58694754/78573879-e8a3c900-7831-11ea-8ebc-89393bb0e01d.png">
 <img width="577" alt="Ekran Resmi 2020-04-06 17 43 07" src="https://user-images.githubusercontent.com/58694754/78573904-f0636d80-7831-11ea-8b12-3b2604c66fab.png">
